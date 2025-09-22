@@ -13,7 +13,7 @@ mim install "mmcv>=2.0.0rc1,<2.1.0"
 mim install "mmdet>=3.0.0rc3,<3.1.0"
 # Install albumentations
 pip install -r requirements/albu.txt
-# Install MMYOLO , don't forget it!
+# Install MMYOLO
 mim install -v -e .
 ```
 ### Datasets
