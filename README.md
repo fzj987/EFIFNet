@@ -11,3 +11,7 @@ Code：uqzs
 
  - **M3FD**   
 Link: https://drive.google.com/drive/folders/1H-oO7bgRuVFYDcMGvxstT1nmy0WF_Y_6
+
+### Weights
+ - **M3FD** 
+Link: https://pan.baidu.com/s/1I6vxv7B66Ow5nuMqXRPnlw Password: nu2p
