@@ -1,5 +1,21 @@
 # EFIFNet
 
+## Installation
+**Detection**
+
+```shell
+conda create -n EAEF python=3.8 pytorch==1.10.1 torchvision==0.11.2 cudatoolkit=11.3 -c pytorch -y
+conda activate EAEF
+pip install openmim
+mim install "mmengine>=0.3.1"
+mim install "mmcv>=2.0.0rc1,<2.1.0"
+mim install "mmdet>=3.0.0rc3,<3.1.0"
+cd EAEFNet_Detection/EAEF_mmyolo
+# Install albumentations
+pip install -r requirements/albu.txt
+# Install MMYOLO , don't forget it!
+mim install -v -e .
+```
 ### Datasets
  - **KAIST**  
 Link：https://pan.baidu.com/s/1UdwQJH-cHVL91pkMW-ij6g 
