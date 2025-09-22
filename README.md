@@ -1,5 +1,7 @@
 # EFIFNet
 
+The complete code will be released soon.
+
 ## Installation
 
 ```shell
